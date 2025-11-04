@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRUD with Nodejs, Express and Mongodb
 
 ![](docs/screenshot.png)
@@ -38,3 +39,6 @@ Now you can visit: <a target="_blank" href="http://localhost:3000">http://localh
 * [ ] remove babel with es modules
 * [ ] add error handling
 * [ ] add a validation library for user input
+=======
+# men-crud-auth
+>>>>>>> 328cd369dec2d4996b52ecb58143e62b94a6b85d
